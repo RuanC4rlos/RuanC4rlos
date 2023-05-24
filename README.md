@@ -1,4 +1,4 @@
-<!--<img src = "banner.gif" width = "325px" align = "right">-->
+<img src = "giphy.gif" width = "325px" align = "right">
 
 # ❤ Olá, bom ter você por aqui!
   <div id="badges">
@@ -28,6 +28,6 @@
 
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanC4rlos&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=RuanC4rlos&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanC4rlos&show_icons=true&theme=transparent&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=RuanC4rlos&show_icons=true&show_icons=true&theme=transparent&count_private=true" />
 </div>
