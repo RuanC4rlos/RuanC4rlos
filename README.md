@@ -1,7 +1,7 @@
 <img src = "giphy.gif" width = "325px" align = "right">
 
 # ❤ Olá, bom ter você por aqui!
-  <div id="badges">
+<div id="badges">
   <a href = "https://github.com/RuanC4rlos">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -31,3 +31,5 @@
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanC4rlos&show_icons=true&theme=transparent&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=RuanC4rlos&show_icons=true&show_icons=true&theme=transparent&count_private=true" />
 </div>
+
+![Snake animation](https://github.com/RuanC4rlos/blob/output/github-contribution-grid-snake.svg)
