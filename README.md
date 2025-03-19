@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
-- 💻 Estudante de Sistemas de Informação  
+- 💻 Bacharel em Sistemas de Informação  
 - ❤  Aprendendo algo sobre back-end 
 -  📱  Fã da Udemy
 
