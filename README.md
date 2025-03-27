@@ -128,7 +128,7 @@ Me chamo Ruan Carlos de Moura Sousa, sou Bacharel em Sistema de Informação ten
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanCarlos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide=Jupyter%20Notebook" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanC4rlos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide=Jupyter%20Notebook" 
   />
 
 </p>
